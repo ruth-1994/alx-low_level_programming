@@ -4,9 +4,9 @@
 
 
 /*
- * main - determine a number 
- *  Return: Always 0(Succes)
-  */
+ * main - Determine if a number is positie,negative or zero. 
+ *  Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int n;
